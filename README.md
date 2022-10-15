@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saisailaja1990
 - 👀 I’m interested in Software testing(QA,Test Engineer)
 - 🌱 I’m currently learning APPIUM,API Automation with REST Assured
-- 💞️ I’m looking to collaborate on JobSearch
+- 💞️ I’m looking to collaborate on JobSearch(Employment)
 - 📫 How to reach me pattipatisaisailaja7@gmail.com
 
 <!---
